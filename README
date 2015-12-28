@@ -1,0 +1,12 @@
+URL Cleaner
+-----------
+
+Wtf is this ? It is a simple project I made for learning CMake.
+So the project uses CMake for building, it is written in C and
+most probably have no sense at all. Unless I find a reason to 
+need to clean an URL.
+
+So don't expect anything from those files. It is just a lot of noise.
+
+Rgds
+Saxa
