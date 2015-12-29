@@ -6,7 +6,7 @@ int main (int argc, char *argv[])
 
 	if (argc < 2)
 	{
-		fprintf(stdout,"%s Version %i.%i.%i\n",argv[0], urlcleaner_VERSION_MAJOR, urlcleaner_VERSION_MINOR, urlcleaner_VERSION_MICRO);
+		fprintf(stdout,"%s Version %i.%i.%i\n",argv[0], urlcleaner_VERSION_MAJOR, urlcleaner_VERSION_MINOR, urlcleaner_VERSION_PATCH);
 		fprintf(stdout,"Usage: %s [URL]\n",argv[0]);
 		fprintf(stdout,"The url cleaner will remove the initial part of the url\n");
 		fprintf(stdout,"and will return you the cleaned url on stdout.\n");

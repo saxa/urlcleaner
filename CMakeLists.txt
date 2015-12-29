@@ -3,7 +3,7 @@ project (urlcleaner)
 # The version number.
 set (urlcleaner_VERSION_MAJOR 0)
 set (urlcleaner_VERSION_MINOR 0)
-set (urlcleaner_VERSION_MICRO 0)
+set (urlcleaner_VERSION_PATCH 0)
  
 # configure a header file to pass some of the CMake settings
 # to the source code
